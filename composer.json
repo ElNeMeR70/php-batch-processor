@@ -1,0 +1,20 @@
+{
+  "name": "elnemer70/php-batch-processor",
+  "description": "Batch processor with chunking and progress tracking",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElNeMeR70\\\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mahmoud ElNemer",
+      "email": "sultanelnemer@gmail.com"
+    }
+  ]
+}
